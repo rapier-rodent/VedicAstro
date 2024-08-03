@@ -1,0 +1,8 @@
+tqdm
+polars
+fastapi
+uvicorn
+prettytable
+ipykernel
+pyswisseph
+git+https://github.com/diliprk/flatlib.git@sidereal
